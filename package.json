@@ -1,0 +1,8 @@
+{
+  "name": "touhou-mmd-sender",
+  "author": "Scott Gamble",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}

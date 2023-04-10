@@ -1,0 +1,16 @@
+{
+  "name": "puyofan99/touhou-mmd-sender",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/discord/message/create.js": {
+      "name": "discord.message.create"
+    }
+  },
+  "env": [
+    {
+      "name": "PREFIX",
+      "description": "The prefix for your command"
+    }
+  ]
+}
